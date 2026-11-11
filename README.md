@@ -28,34 +28,35 @@
  
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend" />
+  <br />
+  <code>Python</code> · <code>FastAPI</code> · <code>SQLModel</code> · <code>SQLAlchemy</code> · <code>APIs REST</code> · <code>Next.js Server Actions</code> · <code>Better Auth</code>
 </p>
-`Python` · `FastAPI` · `SQLModel` · `SQLAlchemy` · `APIs REST` · `Next.js Server Actions` · `Better Auth`
- 
 **Frontend**
  
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
+  <br />
+  <code>HTML/CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Tailwind CSS</code> · <code>shadcn/ui</code> · <code>Diseño responsivo (móvil y tablet)</code>
 </p>
-`HTML/CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `Diseño responsivo (móvil y tablet)`
- 
 **Bases de datos y datos**
  
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma" alt="Bases de datos" />
+  <br />
+  <code>SQL Server</code> · <code>SQLite</code> · <code>PostgreSQL</code> · <code>Prisma ORM</code> · <code>Bases de datos distribuidas</code> · <code>Power Query</code> · <code>Power BI</code> · <code>Weka</code> · <code>Excel avanzado / VBA</code>
 </p>
-`SQL Server` · `SQLite` · `PostgreSQL` · `Prisma ORM` · `Bases de datos distribuidas` · `Power Query` · `Power BI` · `Weka` · `Excel avanzado / VBA`
- 
 **Redes y sistemas**
  
-`Cisco Packet Tracer` · `VLANs` · `ACLs` · `NAT` · `Firewall ASA` · `IPsec` · `Sistemas operativos`
- 
+<p>
+  <code>Cisco Packet Tracer</code> · <code>VLANs</code> · <code>ACLs</code> · <code>NAT</code> · <code>Firewall ASA</code> · <code>IPsec</code> · <code>Sistemas operativos</code>
+</p>
 **Herramientas, pruebas y diseño**
  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bun,blender" alt="Herramientas" />
+  <br />
+  <code>Git</code> · <code>GitHub</code> · <code>Docker</code> · <code>Bun</code> · <code>Vitest</code> · <code>Modelado 3D</code> · <code>Computación gráfica</code> · <code>Canva</code>
 </p>
-`Git` · `GitHub` · `Docker` · `Bun` · `Vitest` · `Modelado 3D` · `Computación gráfica` · `Canva`
- 
 ## En qué he trabajado
  
 - **Menuly (CodeVerse)**: sistema de punto de venta y menú digital para restaurantes, hecho con Next.js, Prisma y PostgreSQL. Mi trabajo incluye:

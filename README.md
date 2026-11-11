@@ -11,71 +11,70 @@
   <img src="https://img.shields.io/badge/Ubicación-Estado%20de%20México-1F5A38?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
   <img src="https://img.shields.io/badge/Inglés-B2%20(British%20Council)-1F5A38?style=flat-square" alt="Inglés B2" />
 </p>
----
- 
-## Sobre mí
- 
-- 🎓 Curso Ingeniería en Sistemas Computacionales en el **IUEM**.
-- 💼 Colaboro como desarrollador full stack en **Menuly**, un sistema de punto de venta y menú digital para restaurantes, con el equipo de **CodeVerse**.
-- ⚙️ Me enfoco en **desarrollo backend**: APIs REST con Python y FastAPI, y bases de datos relacionales.
-- 🧩 También trabajo en el frontend con **React y Next.js**, y colaboro en proyectos en equipo de principio a fin.
-- 📊 Me interesan la **minería de datos y el business intelligence**, además de **redes y seguridad informática**.
-- 🎨 En mis ratos libres hago **modelado 3D y animación**.
-- 🔎 Busco **prácticas profesionales** donde pueda aportar y seguir aprendiendo.
-## Tecnologías
- 
-**Backend**
- 
+<hr />
+<h2>Sobre mí</h2>
+<ul>
+  <li>🎓 Curso Ingeniería en Sistemas Computacionales en el <b>IUEM</b>.</li>
+  <li>💼 Colaboro como desarrollador full stack en <b>Menuly</b>, un sistema de punto de venta y menú digital para restaurantes, con el equipo de <b>CodeVerse</b>.</li>
+  <li>⚙️ Me enfoco en <b>desarrollo backend</b>: APIs REST con Python y FastAPI, y bases de datos relacionales.</li>
+  <li>🧩 También trabajo en el frontend con <b>React y Next.js</b>, y colaboro en proyectos en equipo de principio a fin.</li>
+  <li>📊 Me interesan la <b>minería de datos y el business intelligence</b>, además de <b>redes y seguridad informática</b>.</li>
+  <li>🎨 En mis ratos libres hago <b>modelado 3D y animación</b>.</li>
+  <li>🔎 Busco <b>prácticas profesionales</b> donde pueda aportar y seguir aprendiendo.</li>
+</ul>
+<h2>Tecnologías</h2>
+<p><b>Backend</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi" alt="Backend" />
   <br />
   <code>Python</code> · <code>FastAPI</code> · <code>SQLModel</code> · <code>SQLAlchemy</code> · <code>APIs REST</code> · <code>Next.js Server Actions</code> · <code>Better Auth</code>
 </p>
-**Frontend**
- 
+<p><b>Frontend</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend" />
   <br />
   <code>HTML/CSS</code> · <code>JavaScript</code> · <code>TypeScript</code> · <code>React</code> · <code>Next.js</code> · <code>Tailwind CSS</code> · <code>shadcn/ui</code> · <code>Diseño responsivo (móvil y tablet)</code>
 </p>
-**Bases de datos y datos**
- 
+<p><b>Bases de datos y datos</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma" alt="Bases de datos" />
   <br />
   <code>SQL Server</code> · <code>SQLite</code> · <code>PostgreSQL</code> · <code>Prisma ORM</code> · <code>Bases de datos distribuidas</code> · <code>Power Query</code> · <code>Power BI</code> · <code>Weka</code> · <code>Excel avanzado / VBA</code>
 </p>
-**Redes y sistemas**
- 
+<p><b>Redes y sistemas</b></p>
 <p>
   <code>Cisco Packet Tracer</code> · <code>VLANs</code> · <code>ACLs</code> · <code>NAT</code> · <code>Firewall ASA</code> · <code>IPsec</code> · <code>Sistemas operativos</code>
 </p>
-**Herramientas, pruebas y diseño**
- 
+<p><b>Herramientas, pruebas y diseño</b></p>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bun,blender" alt="Herramientas" />
   <br />
   <code>Git</code> · <code>GitHub</code> · <code>Docker</code> · <code>Bun</code> · <code>Vitest</code> · <code>Modelado 3D</code> · <code>Computación gráfica</code> · <code>Canva</code>
 </p>
-## En qué he trabajado
- 
-- **Menuly (CodeVerse)**: sistema de punto de venta y menú digital para restaurantes, hecho con Next.js, Prisma y PostgreSQL. Mi trabajo incluye:
-  - interfaces adaptadas a celular y tablet para el punto de venta, la caja y el editor de carta;
-  - el monitor de ventas y la apertura y cierre de caja;
-  - validaciones en el servidor y pruebas automatizadas con Vitest.
-  Trabajamos por issues y épicas, con revisión de código en pull requests.
-- **APIs REST** con FastAPI y bases de datos relacionales, con manejo correcto de errores y códigos de estado.
-- **Aplicaciones web full stack** con backend en Python y frontend en Next.js, incluyendo visión por computadora.
-- **Plataformas web en equipo** con Next.js, Prisma y PostgreSQL.
-- **Análisis y minería de datos** con SQL Server, Weka y Power Query.
-- **Diseño de redes empresariales** con enrutamiento inter-VLAN, VoIP, ACLs, NAT y firewall.
-- **Automatización en Excel** con tablas dinámicas, macros en VBA y dashboards interactivos.
-## Idiomas
- 
-- 🇲🇽 Español: nativo
-- 🇬🇧 Inglés: B2 avanzado (cercano a C1), certificado por British Council EnglishScore
----
- 
+<h2>En qué he trabajado</h2>
+<ul>
+  <li>
+    <b>Menuly (CodeVerse)</b>: sistema de punto de venta y menú digital para restaurantes, hecho con Next.js, Prisma y PostgreSQL. Mi trabajo incluye:
+    <ul>
+      <li>interfaces adaptadas a celular y tablet para el punto de venta, la caja y el editor de carta;</li>
+      <li>el monitor de ventas y la apertura y cierre de caja;</li>
+      <li>validaciones en el servidor y pruebas automatizadas con Vitest.</li>
+    </ul>
+    Trabajamos por issues y épicas, con revisión de código en pull requests.
+  </li>
+  <li><b>APIs REST</b> con FastAPI y bases de datos relacionales, con manejo correcto de errores y códigos de estado.</li>
+  <li><b>Aplicaciones web full stack</b> con backend en Python y frontend en Next.js, incluyendo visión por computadora.</li>
+  <li><b>Plataformas web en equipo</b> con Next.js, Prisma y PostgreSQL.</li>
+  <li><b>Análisis y minería de datos</b> con SQL Server, Weka y Power Query.</li>
+  <li><b>Diseño de redes empresariales</b> con enrutamiento inter-VLAN, VoIP, ACLs, NAT y firewall.</li>
+  <li><b>Automatización en Excel</b> con tablas dinámicas, macros en VBA y dashboards interactivos.</li>
+</ul>
+<h2>Idiomas</h2>
+<ul>
+  <li>🇲🇽 Español: nativo</li>
+  <li>🇬🇧 Inglés: B2 avanzado (cercano a C1), certificado por British Council EnglishScore</li>
+</ul>
+<hr />
 <p align="center">
   <i>¿Tienes una vacante de prácticas o un proyecto interesante? Escríbeme a <a href="mailto:angelaxelcs@gmail.com">angelaxelcs@gmail.com</a>.</i>
 </p>
